@@ -10,8 +10,8 @@
     <li> 🐾​ Espèce : Ochotona iliensis
     <li> 🌏​ Habitat : Asie
     <li> 🥦​ Alimentation : Herbivore
-    <li> 
-    <li> : ) :
+    <li> ❤️​ Esperance de vie : 4 ans
+    <li> 👨‍👨‍👦‍👦​ Population : ~1000
     </ul>
     </td></tr>
  </table>
