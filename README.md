@@ -208,4 +208,4 @@ Les plateformes et services des BATX ont également un impact significatif sur l
 * McKinsey & Company - How China’s BATX are innovating
     * https://www.mckinsey.com/featured-insights/china/how-chinas-batx-are-innovating
 
-***[Note au lecteur ] :*** *Aide de la traduction automatique du navigateur*
+***[Note au lecteur ] :*** *Aide de la traduction automatique du navigateur et d'intelligence artificielle afin de trouver les sources ci dessus*
