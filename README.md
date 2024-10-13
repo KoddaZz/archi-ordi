@@ -186,3 +186,26 @@ Les plateformes et services des BATX ont également un impact significatif sur l
 
 **Ils rivalisent désormais avec les géants technologiques occidentaux tel que les GAFAM et dominent leurs marchés locaux, se plaçant au cœur des évolutions économiques mondiales. Cependant, cette expansion rapide suscite également des préoccupations quant à la vie privée ou encore la sécurité des données, mettant en lumière la nécessité d'une régulation à l'échelle internationale. Malgré ces défis, les BATX continuent d'explorer de nouveaux domaines technologiques.**
 
+---
+
+## BIBLIOGRAPHIE
+
+* Forbes - Baidu, Alibaba, Tencent: The BATX of China
+    * https://www.forbes.com/sites/bernardmarr/2021/07/05/baidu-alibaba-tencent-the-batx-of-china/?sh=1e2d049c7ec3
+
+* Reuters - China's BATX tech firms face mounting challenges
+    * https://www.reuters.com/technology/chinas-batx-tech-firms-face-mounting-challenges-2021-07-27/
+
+* TechCrunch - The Rise of China’s BATX
+    * https://techcrunch.com/2021/05/17/the-rise-of-chinas-batx/
+
+* The Economist - How the BATX are taking on the world
+    * https://www.economist.com/business/2021/04/24/how-the-batx-are-taking-on-the-world
+
+* CNBC - China’s BATX firms: Their global influence
+    * https://www.cnbc.com/2021/06/18/chinas-batx-firms-their-global-influence.html
+
+* McKinsey & Company - How China’s BATX are innovating
+    * https://www.mckinsey.com/featured-insights/china/how-chinas-batx-are-innovating
+
+***[Note au lecteur ] :*** *Aide de la traduction automatique du navigateur*
