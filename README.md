@@ -1,17 +1,17 @@
-# L'ILI PIKA
+# L'INTELLIGENCE ARTIFICIELLE
 
 <table>
     <tr>
     <td>
-    <img align="middle" src="https://i.natgeofe.com/n/a34d3064-7b7f-4e4f-b7b5-124f0cff6678/chinesemammal01_2x3.jpg" alt="Ili Pika" width="120px"/>
+    <img align="middle" src="https://img.freepik.com/vecteurs-premium/illustration-vectorielle-intelligence-artificielle-noir-blanc-fond-blanc_751796-202.jpg" alt="Intelligence Artificielle" width="120px"/>
     </td><td>
     <ul>
-    <li> 🧬​ Race : Mammifère
-    <li> 🐾​ Espèce : Ochotona iliensis
-    <li> 🌏​ Habitat : Asie
-    <li> 🥦​ Alimentation : Herbivore
-    <li> ❤️​ Esperance de vie : 4 ans
-    <li> 👨‍👨‍👦‍👦​ Population : ~1000
+    <li> 🤖 Type : Technologie
+    <li> 🧠 Catégorie : IA faible (spécialisée), IA forte (générale, hypothétique)
+    <li> 🌍 Utilisation : Industrie, médecine, jeux, etc.
+    <li> 🖥️ Principes : Apprentissage automatique, réseaux neuronaux
+    <li> 📈 Évolution : Depuis les années 1950
+    <li> 🌐 Présence : Mondiale
     </ul>
     </td></tr>
  </table>
